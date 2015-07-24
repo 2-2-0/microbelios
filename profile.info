@@ -1,0 +1,13 @@
+spaf_version:1.0
+level: 1
+release:1.0
+name:microbelios
+authors:JPV (art/hw),220 (code)
+category:art
+tags:sound,music,instrument
+brief:alternative musical instrument
+release_date:2010
+customer:Juan Pablo Villegas
+platform:arduino
+devtools:Linux box,Arduino
+sources-url:https://www.github.com/2-2-0/microbelios
